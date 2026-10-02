@@ -1,0 +1,15 @@
+# Haskell
+lab_n1
+dist
+dist-*
+*.o
+*.hi
+*.hie
+*.dyn_o
+*.dyn_hi
+*.prof
+*.aux
+*.hp
+*.eventlog
+.stack-work/
+.ghc.environment.*
